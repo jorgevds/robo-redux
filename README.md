@@ -1,2 +1,2 @@
-# Robofriends
+# Robofriends Redux
 Robofriends with Redux.
